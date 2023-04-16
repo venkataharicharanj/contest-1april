@@ -1,0 +1,16 @@
+.section-1{
+    
+    box-sizing: border-box;
+    /* position: absolute; */
+    left: 50px;
+    width: 95vw;
+    padding: 20px 30px;
+    right: 4px; 
+    font-size: 30px; 
+    
+}
+.section-2 > img{
+    width: 1050px;
+    height: 750px;
+    
+}
